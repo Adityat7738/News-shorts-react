@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+This project  fetches the data from news api to display it in frontened
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
